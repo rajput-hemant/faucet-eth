@@ -22,8 +22,8 @@
     "tailwind-merge": "^1.14.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.8.1",
-    "@commitlint/config-conventional": "^17.8.1",
+    "@commitlint/cli": "^18.2.0",
+    "@commitlint/config-conventional": "^18.1.0",
     "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
     "@types/node": "^20.8.9",
     "@types/react": "^18.2.33",
